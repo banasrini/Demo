@@ -5,7 +5,7 @@ layout: layouts/base.njk
 ---
 
 
-## This site is a starting point for a blog using Eleventy
+## This site is a starting point for a blog using Eleventy this is STAGING
 
 From this point we should already have:
 
