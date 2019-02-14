@@ -5,7 +5,7 @@ layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
+## This site is a starting point for a blog using Eleventy
 
 From this point we should already have:
 
